@@ -1,0 +1,10 @@
+model_and_optimizer.pth
+gpt2/
+*.pt
+*.pth
+*.ckpt
+*.bin
+__pycache__/
+.cache/
+*.ipynb_checkpoints/
+
